@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+.DS_Store
+# dataset & large artifacts
+data/*.txt
+data/*.csv
+models/*.keras
+models/*.h5
